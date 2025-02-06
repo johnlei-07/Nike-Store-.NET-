@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\NikeStore\NikeStore\bin\Debug\NikeStore.exe.config
+C:\Users\User\source\repos\NikeStore\NikeStore\bin\Debug\NikeStore.exe
+C:\Users\User\source\repos\NikeStore\NikeStore\bin\Debug\NikeStore.pdb
+C:\Users\User\source\repos\NikeStore\NikeStore\obj\Debug\NikeStore.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\NikeStore\NikeStore\obj\Debug\NikeStore.Form1.resources
+C:\Users\User\source\repos\NikeStore\NikeStore\obj\Debug\NikeStore.Properties.Resources.resources
+C:\Users\User\source\repos\NikeStore\NikeStore\obj\Debug\NikeStore.csproj.GenerateResource.cache
+C:\Users\User\source\repos\NikeStore\NikeStore\obj\Debug\NikeStore.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NikeStore\NikeStore\obj\Debug\NikeStore.exe
+C:\Users\User\source\repos\NikeStore\NikeStore\obj\Debug\NikeStore.pdb
+C:\Users\User\source\repos\NikeStore\NikeStore\obj\Debug\NikeStore.SignUp.resources
+C:\Users\User\source\repos\NikeStore\NikeStore\obj\Debug\NikeStore.Category.resources
+C:\Users\User\source\repos\NikeStore\NikeStore\obj\Debug\NikeStore.tops.resources
+C:\Users\User\source\repos\NikeStore\NikeStore\obj\Debug\NikeStore.Buttoms.resources
+C:\Users\User\source\repos\NikeStore\NikeStore\obj\Debug\NikeStore.jersey.resources
+C:\Users\User\source\repos\NikeStore\NikeStore\obj\Debug\NikeStore.shoes.resources
